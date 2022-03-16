@@ -15,7 +15,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-03-16T10:45:02.251Z",
+      "scrapedTime": "2022-03-16T10:47:04.054Z",
       "user": {
         "info": {
           "uid": 672346917,
@@ -110,12 +110,12 @@
       }
     },
     "weibo": {
-      "scrapedTime": "2022-03-16T10:45:03.744Z",
-      "scrapedTimeUnix": 1647427503744,
+      "scrapedTime": "2022-03-16T10:47:05.505Z",
+      "scrapedTimeUnix": 1647427625505,
       "user": {
         "id": 7595051004,
         "screen_name": "A-SOUL向晚Ava",
-        "profile_image_url": "https://tvax1.sinaimg.cn/crop.0.0.828.828.180/008i03IEly8gpq5hj85l2j30n00n0q4r.jpg?KID=imgbed,tva&Expires=1647438303&ssig=zpeQZZuh2W",
+        "profile_image_url": "https://tvax1.sinaimg.cn/crop.0.0.828.828.180/008i03IEly8gpq5hj85l2j30n00n0q4r.jpg?KID=imgbed,tva&Expires=1647438425&ssig=lLkW0pVf%2FY",
         "profile_url": "https://m.weibo.cn/u/7595051004?uid=7595051004&luicode=20000174",
         "statuses_count": 80,
         "verified": true,
@@ -151,7 +151,7 @@
     "bilibili_bio": {
       "nickname": "向晚大魔王",
       "uid": 672346917,
-      "scrapedTime": "2022-03-16T10:45:01.270Z",
+      "scrapedTime": "2022-03-16T10:47:03.113Z",
       "avatar": "/bfs/face/566078c52b408571d8ae5e3bcdf57b2283024c27.jpg",
       "sign": "关注...也不是不可以啦！",
       "latestStream": {
@@ -179,7 +179,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-03-16T10:45:07.193Z",
+      "scrapedTime": "2022-03-16T10:47:09.032Z",
       "user": {
         "info": {
           "uid": 672353429,
@@ -279,12 +279,12 @@
       }
     },
     "weibo": {
-      "scrapedTime": "2022-03-16T10:45:08.946Z",
-      "scrapedTimeUnix": 1647427508946,
+      "scrapedTime": "2022-03-16T10:47:09.861Z",
+      "scrapedTimeUnix": 1647427629861,
       "user": {
         "id": 7594710405,
         "screen_name": "A-SOUL贝拉Bella",
-        "profile_image_url": "https://tvax1.sinaimg.cn/crop.0.0.828.828.180/008hYD77ly8gpq9ih8q2qj30n00n0wg2.jpg?KID=imgbed,tva&Expires=1647438308&ssig=3EPjnR9hmG",
+        "profile_image_url": "https://tvax1.sinaimg.cn/crop.0.0.828.828.180/008hYD77ly8gpq9ih8q2qj30n00n0wg2.jpg?KID=imgbed,tva&Expires=1647438429&ssig=Nr8duVqOxA",
         "profile_url": "https://m.weibo.cn/u/7594710405?uid=7594710405&luicode=20000174",
         "statuses_count": 83,
         "verified": true,
@@ -320,7 +320,7 @@
     "bilibili_bio": {
       "nickname": "贝拉kira",
       "uid": 672353429,
-      "scrapedTime": "2022-03-16T10:45:06.451Z",
+      "scrapedTime": "2022-03-16T10:47:08.491Z",
       "avatar": "/bfs/face/668af440f8a8065743d3fa79cfa8f017905d0065.jpg",
       "sign": "元气满满的A-SOUL舞担参上~目标TOP IDOL，一起加油！",
       "latestStream": {
@@ -348,7 +348,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-03-16T10:45:12.822Z",
+      "scrapedTime": "2022-03-16T10:47:13.493Z",
       "user": {
         "info": {
           "uid": 351609538,
@@ -443,12 +443,12 @@
       }
     },
     "weibo": {
-      "scrapedTime": "2022-03-16T10:45:14.132Z",
-      "scrapedTimeUnix": 1647427514132,
+      "scrapedTime": "2022-03-16T10:47:14.687Z",
+      "scrapedTimeUnix": 1647427634687,
       "user": {
         "id": 7594393391,
         "screen_name": "A-SOUL珈乐Carol",
-        "profile_image_url": "https://tvax4.sinaimg.cn/crop.0.0.828.828.180/008hXiDZly8gpq95485c9j30n00n075v.jpg?KID=imgbed,tva&Expires=1647438313&ssig=tl4QxdvRI2",
+        "profile_image_url": "https://tvax4.sinaimg.cn/crop.0.0.828.828.180/008hXiDZly8gpq95485c9j30n00n075v.jpg?KID=imgbed,tva&Expires=1647438434&ssig=KieK7Jw8oe",
         "profile_url": "https://m.weibo.cn/u/7594393391?uid=7594393391&luicode=20000174",
         "statuses_count": 59,
         "verified": true,
@@ -484,7 +484,7 @@
     "bilibili_bio": {
       "nickname": "珈乐Carol",
       "uid": 351609538,
-      "scrapedTime": "2022-03-16T10:45:11.413Z",
+      "scrapedTime": "2022-03-16T10:47:12.839Z",
       "avatar": "/bfs/face/a7fea00016a8d3ffb015b6ed8647cc3ed89cbc63.jpg",
       "sign": "嘘，请听我为你歌唱……",
       "latestStream": {
@@ -495,7 +495,7 @@
         "isWecomSent": true,
         "timestamp": "2022-03-16T10:41:35.000Z",
         "timestampUnix": 1647427295000,
-        "timeAgo": "4 minutes ago"
+        "timeAgo": "6 minutes ago"
       }
     }
   },
@@ -515,7 +515,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-03-16T10:45:16.475Z",
+      "scrapedTime": "2022-03-16T10:47:17.907Z",
       "user": {
         "info": {
           "uid": 672328094,
@@ -610,12 +610,12 @@
       }
     },
     "weibo": {
-      "scrapedTime": "2022-03-16T10:45:17.868Z",
-      "scrapedTimeUnix": 1647427517868,
+      "scrapedTime": "2022-03-16T10:47:19.287Z",
+      "scrapedTimeUnix": 1647427639287,
       "user": {
         "id": 7595006312,
         "screen_name": "A-SOUL嘉然Diana",
-        "profile_image_url": "https://tvax3.sinaimg.cn/crop.0.0.896.896.180/008hZS5Oly8gpr7ae14c9j30ow0ow0uy.jpg?KID=imgbed,tva&Expires=1647438317&ssig=wWcuMXrzb8",
+        "profile_image_url": "https://tvax3.sinaimg.cn/crop.0.0.896.896.180/008hZS5Oly8gpr7ae14c9j30ow0ow0uy.jpg?KID=imgbed,tva&Expires=1647438438&ssig=F0hGFtzq4Y",
         "profile_url": "https://m.weibo.cn/u/7595006312?uid=7595006312&luicode=20000174",
         "statuses_count": 94,
         "verified": true,
@@ -651,7 +651,7 @@
     "bilibili_bio": {
       "nickname": "嘉然今天吃什么",
       "uid": 672328094,
-      "scrapedTime": "2022-03-16T10:45:15.711Z",
+      "scrapedTime": "2022-03-16T10:47:17.361Z",
       "avatar": "/bfs/face/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg",
       "sign": "这里是嘉然！别看我小小的，我超能吃还超可爱的哦~",
       "latestStream": {
@@ -679,7 +679,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-03-16T10:45:20.081Z",
+      "scrapedTime": "2022-03-16T10:47:21.196Z",
       "user": {
         "info": {
           "uid": 672342685,
@@ -774,12 +774,12 @@
       }
     },
     "weibo": {
-      "scrapedTime": "2022-03-16T10:45:21.186Z",
-      "scrapedTimeUnix": 1647427521186,
+      "scrapedTime": "2022-03-16T10:47:22.037Z",
+      "scrapedTimeUnix": 1647427642037,
       "user": {
         "id": 7524943648,
         "screen_name": "A-SOUL乃琳Eileen",
-        "profile_image_url": "https://tvax4.sinaimg.cn/crop.0.0.896.896.180/008dfTAQly8gpqd8gkytnj30ow0owjte.jpg?KID=imgbed,tva&Expires=1647438320&ssig=exHueppxYI",
+        "profile_image_url": "https://tvax4.sinaimg.cn/crop.0.0.896.896.180/008dfTAQly8gpqd8gkytnj30ow0owjte.jpg?KID=imgbed,tva&Expires=1647438441&ssig=%2FdWPejVYhZ",
         "profile_url": "https://m.weibo.cn/u/7524943648?uid=7524943648&luicode=20000174",
         "statuses_count": 89,
         "verified": true,
@@ -815,7 +815,7 @@
     "bilibili_bio": {
       "nickname": "乃琳Queen",
       "uid": 672342685,
-      "scrapedTime": "2022-03-16T10:45:19.369Z",
+      "scrapedTime": "2022-03-16T10:47:20.816Z",
       "avatar": "/bfs/face/8895c87082beba1355ea4bc7f91f2786ef49e354.jpg",
       "sign": "喜欢听你说，开心和不开心的，都告诉我吧~",
       "latestStream": {
@@ -843,7 +843,7 @@
       }
     },
     "bilibili_mblog": {
-      "scrapedTime": "2022-03-16T10:45:24.907Z",
+      "scrapedTime": "2022-03-16T10:47:24.384Z",
       "user": {
         "info": {
           "uid": 703007996,
@@ -916,39 +916,55 @@
         "type": 1,
         "timestamp": "2022-03-16T09:57:33.000Z",
         "timestampUnix": 1647424653000,
-        "timeAgo": "48 minutes ago"
+        "timeAgo": "50 minutes ago"
       }
     },
     "douyin": {
       "nickname": "五个魂儿呀",
       "uid": "1002373479924424",
-      "scrapedTime": "2022-03-16T10:45:27.544Z",
+      "scrapedTime": "2022-03-16T10:47:30.869Z",
       "sign": "好看的人类千篇一律，有趣的魂儿哈哈哈哈哈里挑一！\n我们是虚拟偶像女团“A-SOUL”，\n关注五个魂儿，开心不打盹儿…",
       "following": 7,
-      "followers": 569787,
+      "followers": 569795,
       "latestPost": {
         "id": "7075593928023543077",
         "title": "跳完这支舞，你的甜品可以分我一半吗？#二次元 #虚拟偶像 ",
         "timestamp": "2022-03-16T09:20:42.000Z",
         "timestampUnix": 1647422442000,
         "timeAgo": "1 hour ago",
-        "cover": "https://p6-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b8004f7ab607467d976b61e507579a88?x-expires=1648634400&x-signature=eKMnUJS1o9mcU0EXzs9p8fnKOnc%3D&from=4257465056_large",
-        "videoUrl": "https://v3-dy-o.zjcdn.com/aae13f43eac93c4f2ed809cefd8e3074/6231cdef/video/tos/cn/tos-cn-ve-15c001-alinc2/dbcc943d674c41dcbb406c87f554f073/?a=6383&br=1263&bt=1263&cd=0%7C0%7C0%7C0&ch=10010&cr=0&cs=0&cv=1&dr=0&ds=4&er=&ft=VgcwU2IFh7ThWH1xvt2GZ&l=021647427526482fdbddc0100ff2f010a701be70000007b58bfd3&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amc0MzQ6Zm9yOzMzNGkzM0ApZDRnNTs7O2Q0NzZpZGg8O2dlLjFncjRfcGxgLS1kLS9zc2FeXjQwYDNfYjU2YV9hMmE6Yw%3D%3D&vl=&vr=",
-        "shareUrl": "https://www.iesdouyin.com/share/video/7075593928023543077/?region=US&mid=7035064371457870606&u_code=0&did=MS4wLjABAAAAcyE_l_2_MYJPiK5nW_fdsSQ96KUsmuA4UZ4HF6WqY2Y7BgcDSM6jKf5dcZCR5MYF&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title"
+        "cover": "https://p9-pc-sign.douyinpic.com/obj/tos-cn-i-dy/b8004f7ab607467d976b61e507579a88?x-expires=1648634400&x-signature=Y7xEVuCfUSchQyhgG%2BwRMU5EW0o%3D&from=4257465056_large",
+        "videoUrl": "https://v26-web.douyinvod.com/8a822dc2d86c56b64254469f96c18994/6231ce6b/video/tos/cn/tos-cn-ve-15c001-alinc2/dbcc943d674c41dcbb406c87f554f073/?a=6383&br=1263&bt=1263&cd=0%7C0%7C0%7C0&ch=10010&cr=0&cs=0&cv=1&dr=0&ds=4&er=&ft=VgcwUVIIL7ThWHHpot2GZ&l=021647427649817fdbddc0300fff0010a87e1e2000000126d27bd&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=amc0MzQ6Zm9yOzMzNGkzM0ApZDRnNTs7O2Q0NzZpZGg8O2dlLjFncjRfcGxgLS1kLS9zc2FeXjQwYDNfYjU2YV9hMmE6Yw%3D%3D&vl=&vr=",
+        "shareUrl": "https://www.iesdouyin.com/share/video/7075593928023543077/?region=CN&mid=7035064371457870606&u_code=0&did=MS4wLjABAAAATqPvhfsLAcLqeKmOFSX2gAI0c6zIa-xGoF2ZxkAaQgcTKbDto6rqGlbr7IuFMH0V&iid=MS4wLjABAAAANwkJuWIRFOzg5uCpDRpMj4OX-QryoDgn-yYlXQnRwQQ&with_sec_did=1&titleType=title"
       }
     },
     "douyin_live": {
+      "nickname": "五个魂儿呀",
+      "uid": "MS4wLjABAAAAflgvVQ5O1K4RfgUu3k0A2erAZSK7RsdiqPAvxcObn93x2vk4SKk1eUb6l_D4MX-n",
+      "scrapedTime": "2022-03-16T10:47:27.530Z",
+      "sign": "好看的人类千篇一律，有趣的魂儿哈哈哈哈哈里挑一！\n我们是虚拟偶像女团“A-SOUL”，\n关注五个魂儿，开心不打盹儿…",
       "latestStream": {
-        "isWecomSent": false
-      }
+        "liveStatus": 2,
+        "liveStarted": 1647427532000,
+        "liveRoom": "7075647181629410085",
+        "liveTitle": "来看二次元小姐姐直播吧~",
+        "liveCover": "http://p3-webcast-sign.douyinpic.com/webcast-cover/7042595944545864479~tplv-qz53dukwul-common-resize:0:0.image?x-expires=1650019647&x-signature=c3JDouVagjUv6C4ozbfszrwGiIg%3D",
+        "isWecomSent": true
+      },
+      "streamFormats": [
+        "SD1",
+        "SD2",
+        "HD1",
+        "FULL_HD1"
+      ],
+      "streamUrl": "http://pull-hls-l1.douyincdn.com/third/stream-110556990066130982_uhd/playlist.m3u8"
     },
     "weibo": {
-      "scrapedTime": "2022-03-16T10:45:35.030Z",
-      "scrapedTimeUnix": 1647427535030,
+      "scrapedTime": "2022-03-16T10:47:31.764Z",
+      "scrapedTimeUnix": 1647427651764,
       "user": {
         "id": 7519401668,
         "screen_name": "A-SOUL_Official",
-        "profile_image_url": "https://tvax2.sinaimg.cn/crop.66.47.641.641.180/008cSDS4ly8gzf65iof9zj30ku0ku0sy.jpg?KID=imgbed,tva&Expires=1647438308&ssig=%2FYKkHsYMRd",
+        "profile_image_url": "https://tvax2.sinaimg.cn/crop.66.47.641.641.180/008cSDS4ly8gzf65iof9zj30ku0ku0sy.jpg?KID=imgbed,tva&Expires=1647438451&ssig=L%2B7IbEdFLo",
         "profile_url": "https://m.weibo.cn/u/7519401668?uid=7519401668&luicode=20000174",
         "statuses_count": 291,
         "verified": true,
@@ -984,7 +1000,7 @@
     "bilibili_bio": {
       "nickname": "A-SOUL_Official",
       "uid": 703007996,
-      "scrapedTime": "2022-03-16T10:45:24.133Z",
+      "scrapedTime": "2022-03-16T10:47:23.761Z",
       "avatar": "/bfs/face/43b21998da8e7e210340333f46d4e2ae7ec046eb.jpg",
       "sign": "虚拟偶像企划，我们是A-SOUL！合作洽谈请联系a_soulofficial@163.com",
       "latestStream": {
